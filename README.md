@@ -1,4 +1,4 @@
-# darknet2024  [t.me/](https://t.me/bigdatabases)
+# darknet2024  [t.me/bigdatabases](https://t.me/bigdatabases)
 中文暗网导航,2024中文暗网导航
 # darknet 
 暗网导航
